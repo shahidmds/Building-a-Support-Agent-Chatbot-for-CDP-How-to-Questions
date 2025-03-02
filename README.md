@@ -1,10 +1,10 @@
-Building a Support Agent Chatbot for CDP
+# Building a Support Agent Chatbot for CDP
 
-📌 Objective
+# 📌 Objective
 
 Develop a chatbot that can answer "how-to" questions related to four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. The chatbot extracts relevant information from their official documentation to guide users.
 
-🔗 Data Sources
+# 🔗 Data Sources
 
 Segment Documentation
 
@@ -14,7 +14,7 @@ Lytics Documentation
 
 Zeotap Documentation
 
-⚡ Features
+# ⚡ Features
 
 Natural Language Processing (NLP): Understands and processes user queries.
 
@@ -30,7 +30,7 @@ Cross-CDP Comparisons: Answers questions about differences between CDPs.
 
 Advanced "How-to" Queries: Provides guidance on complex configurations and integrations.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 Backend: FastAPI, Python
 
